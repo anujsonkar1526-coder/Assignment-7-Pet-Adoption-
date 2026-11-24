@@ -11,7 +11,7 @@
 
 ## Live Deployment
 
--   **Vercel Link:** pet-adoption-project-nine.vercel.app
+-   **Vercel Link:** /pet-adoption-project-nine.vercel.app
 
 ## Project Overview
 
